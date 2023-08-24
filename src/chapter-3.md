@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Small Business
-=====================================================
 
 Small businesses can benefit greatly from implementing AI tools into their workflows, but it can be overwhelming to know where to start. This chapter will provide guidance on getting started with AI for small business.
 

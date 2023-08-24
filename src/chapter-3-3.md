@@ -1,5 +1,3 @@
-Creating a Customized AI Roadmap for Small Business Enhancement
-======================================================================================================================
 
 Small businesses can benefit greatly from implementing AI tools into their workflows, but it can be overwhelming to know where to start. This chapter will provide guidance on creating a customized AI roadmap for small business enhancement.
 

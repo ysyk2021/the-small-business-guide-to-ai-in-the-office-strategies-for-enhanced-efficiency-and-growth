@@ -1,5 +1,3 @@
-Identifying Business Processes that can be Improved with AI
-==================================================================================================================
 
 Small businesses can benefit greatly from implementing AI tools into their workflows, but it can be challenging to know which processes to target. This chapter will provide guidance on identifying business processes that can be improved with AI.
 

@@ -1,5 +1,3 @@
-Selecting AI tools and Implementing them into Workflows
-==============================================================================================================
 
 Small businesses can benefit greatly from implementing AI tools into their workflows, but it can be overwhelming to know where to start. This chapter will provide guidance on selecting and implementing AI tools for small business.
 

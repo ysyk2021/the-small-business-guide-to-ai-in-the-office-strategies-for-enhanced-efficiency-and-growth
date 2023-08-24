@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Small Business
-=========================================================
 
 AI technology can greatly benefit small businesses by enhancing efficiency, improving decision-making, and optimizing workflows. This chapter will provide an overview of key AI technologies that are relevant to small businesses.
 

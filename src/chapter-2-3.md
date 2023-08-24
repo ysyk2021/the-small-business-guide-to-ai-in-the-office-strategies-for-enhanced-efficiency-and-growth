@@ -1,5 +1,3 @@
-Computer Vision (CV) for Document Management and Optimization
-========================================================================================================================
 
 AI technology can greatly benefit small businesses by enhancing efficiency, improving decision-making, and optimizing workflows. One key area of AI technology is computer vision (CV), which can be used for document management and optimization.
 
