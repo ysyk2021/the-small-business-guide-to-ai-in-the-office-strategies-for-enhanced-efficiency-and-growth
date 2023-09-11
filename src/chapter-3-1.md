@@ -1,5 +1,4 @@
-Chapter 4: Identifying Business Processes That Can Be Improved with AI
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying specific business processes within small organizations that can benefit from the integration of Artificial Intelligence (AI) solutions. Recognizing and targeting the right processes is essential for leveraging AI to enhance efficiency and drive growth.
 

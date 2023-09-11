@@ -1,5 +1,4 @@
-Chapter 8: Machine Learning for Predictive Analytics and Decision-Making
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the powerful applications of Machine Learning (ML) in predictive analytics and decision-making for small businesses. ML technologies empower organizations to harness data-driven insights, make informed choices, and drive growth through data-driven strategies.
 

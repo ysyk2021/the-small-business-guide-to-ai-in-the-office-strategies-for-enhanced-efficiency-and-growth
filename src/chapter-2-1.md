@@ -1,5 +1,4 @@
-Chapter 7: Natural Language Processing (NLP) for Customer Service Improvement
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative power of Natural Language Processing (NLP) in enhancing customer service for small businesses. NLP technologies are revolutionizing the way businesses interact with customers, offering opportunities for improved efficiency, personalization, and overall customer satisfaction.
 

@@ -1,5 +1,4 @@
-Chapter 9: Improving Decision-Making with AI Predictive Analytics and Data Visualization
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore how Artificial Intelligence (AI) plays a pivotal role in enhancing decision-making through predictive analytics and data visualization for small businesses. AI technologies empower organizations to extract actionable insights from data, enabling informed choices and driving growth through data-driven strategies.
 

@@ -1,5 +1,4 @@
-Chapter 6: Computer Vision (CV) for Document Management and Optimization
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative role of Computer Vision (CV) in revolutionizing document management and optimization for small businesses. CV technologies are reshaping the way businesses handle documents, offering opportunities for improved efficiency, accuracy, and overall productivity.
 

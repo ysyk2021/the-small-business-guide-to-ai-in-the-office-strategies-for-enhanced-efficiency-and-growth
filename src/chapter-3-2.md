@@ -1,5 +1,4 @@
-Chapter 6: Selecting AI Tools and Implementing Them into Workflows
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of selecting the right AI tools and seamlessly integrating them into the workflows of small businesses. Effective tool selection and implementation are pivotal in realizing the potential of Artificial Intelligence for enhanced efficiency and growth.
 

@@ -1,5 +1,4 @@
-Chapter 10: Creating a Customized AI Roadmap for Small Business Enhancement
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of developing a customized AI roadmap tailored specifically to the needs and goals of small businesses. A well-crafted AI roadmap serves as a strategic guide to harness the power of Artificial Intelligence for enhanced efficiency and growth.
 

@@ -1,5 +1,4 @@
-Chapter 5: Understanding the Tradeoffs of AI-Enhanced Business Operations
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of tradeoffs in the context of AI-enhanced business operations. It's essential to recognize that while artificial intelligence (AI) offers numerous benefits, there are tradeoffs and considerations that businesses must understand and manage effectively.
 
